@@ -11,7 +11,7 @@ public class Autobus
         setAnhanger(false);
     }
 
-    public Autobus(String name, int alter, boolean matura)
+    public Autobus(String name, int alter, boolean anhanger)
     {
         setKennzeichen(kennzeichen);
         setSitzplatze(sitzplatze);
